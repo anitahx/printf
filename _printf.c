@@ -13,6 +13,8 @@ int (*find_function(const char *format))(va_list)
 	code_f find_f[] = {
 		{"s", print_string},
 		{"c", print_char},
+		{"i", print_int},
+		{"d", print_dec},
 		{NULL, NULL}
 	};
 
