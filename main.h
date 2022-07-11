@@ -6,6 +6,8 @@
 
 int _putchar(char c);
 int _printf(const char *format, ...);
+int print_char(va_list c);
+
 
 /**
   * struct code_format - Struct format
