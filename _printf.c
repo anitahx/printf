@@ -11,6 +11,7 @@ int (*find_function(const char *format))(va_list)
 {
 	unsigned int i = 0;
 	code_f find_f[] = {
+		{"c", print_char},
 		{NULL, NULL}
 	};
 
