@@ -1,4 +1,4 @@
-#ifndef MAIN_H
+#ifndetf MAIN_H
 #define MAIN_H
 
 #include <stdarg.h>
@@ -22,20 +22,6 @@ int print_char(va_list c);
 int print_string(va_list s);
 int print_int(va_list i);
 
-
-/**
-  * struct code_format - Struct format
-  * @sc: The specifiers
-  * @f: The function associated
-  */
-
-typedef struct code_format
-{
-	char *sc;
-	int (*f)(va_list);
-} code_f;
-
-#endif
 /**
   * struct code_format - Struct format
   * @sc: The specifiers
