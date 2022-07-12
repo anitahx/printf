@@ -1,1 +1,1 @@
-Readme foreprintf collaboration project with Anitah
+Readme for printf collaboration project with Anitah
