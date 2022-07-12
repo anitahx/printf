@@ -1,1 +1,1 @@
-My for printf collaboration project with Anitah NOW
+My README for printf collaboration project with Anitah NOW
