@@ -1,1 +1,1 @@
-EAD hhfor printf collaboration project with Anitah NOW
+EAD for printf collaboration project with Anitah NOW
